@@ -4,7 +4,7 @@ return [
 	'database' => [
 		'name' => 'horsesimdb',
 		'username' => 'root',
-		'password' => '082Aug86',
+		'password' => '',
 		'connection' => 'mysql:host=127.0.0.1',
 		'options' => [
 			PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION
